@@ -1,7 +1,7 @@
 package az.cloud.Weather.models;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import java.util.List;
 

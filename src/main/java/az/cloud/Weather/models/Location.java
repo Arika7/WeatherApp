@@ -1,7 +1,10 @@
 package az.cloud.Weather.models;
 
 
-import jakarta.persistence.*;
+import javax.persistence.*;
+
+import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
 @Table(name = "Locations")
